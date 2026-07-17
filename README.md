@@ -3,10 +3,9 @@
 > An end-to-end Machine Learning project that predicts warehouse shipment demand to optimize inventory planning, reduce stock-outs, and improve supply chain efficiency.
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Regression-success)
+![Regression](https://img.shields.io/badge/Machine%20Learning-Regression-success)
 ![XGBoost](https://img.shields.io/badge/Model-XGBoost-orange)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 ---
 
@@ -43,8 +42,7 @@
 - Usage
 - Requirements
 - Author
-- License
-
+  
 ---
 
 # Project Overview
@@ -167,11 +165,6 @@ Performed:
 - Distribution Analysis
 
 Key findings guided feature engineering and model development.
-
-> Add screenshots:
->
-> - Correlation Heatmap
-> - Distribution Plots
 
 ---
 
@@ -312,21 +305,8 @@ pip install -r requirements.txt
 
 Data Science | Machine Learning | Artificial Intelligence
 
-- LinkedIn: *(Add your profile)*
-- GitHub: *(Add your profile)*
-
----
-
-# License
-
-This repository is intended for educational and portfolio purposes.
-
 ---
 
 # Conclusion
 
 This project demonstrates an end-to-end machine learning workflow for supply chain demand forecasting. By combining business understanding, exploratory data analysis, feature engineering, predictive modeling, and actionable recommendations, the solution provides a scalable framework for improving warehouse shipment planning and inventory optimization.
-
----
-
-⭐ If you found this repository useful, consider giving it a star.
